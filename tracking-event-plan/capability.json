@@ -1,0 +1,47 @@
+{
+  "id": "tracking-event-plan",
+  "name": "Tracking event plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before analytics goes onto a website or app, the founder or product owner gets one plan: the events and properties worth collecting, when each fires, where it goes, what it is called and who owns it, each tied to a question the business needs answered. The owner approves what is collected.",
+  "directory": "https://fullypowered.ai/capabilities/tracking-event-plan/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "website-findability-audit",
+    "lead-magnet-plan",
+    "creator-campaign-performance-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own method for planning what a website or app should record."
+    }
+  ]
+}

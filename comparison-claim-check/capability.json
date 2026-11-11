@@ -1,0 +1,47 @@
+{
+  "id": "comparison-claim-check",
+  "name": "Comparison claim check",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A manager holding a claim such as \"version B converts better\" and two groups of numbers gets back the method used, the size of the difference, how uncertain it is, the assumptions checked, and plain wording for what the data does and does not support. The manager decides what to do.",
+  "directory": "https://fullypowered.ai/capabilities/comparison-claim-check/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting",
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/software-technology",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "win-loss-review",
+    "customer-feedback-themes",
+    "operations-kpi-scorecard"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for checking a comparison claim against two groups of numbers: which test fits the outcome, the assumption checks and what each flag does to the reading, four fixed support levels, and wording that stays inside what the data shows."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "dataset-profile",
+  "name": "Dataset profile",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.",
+  "directory": "https://fullypowered.ai/capabilities/dataset-profile/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/finance-and-investment",
+    "industries/ecommerce-and-retail",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/acquisitions-and-integration",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "spreadsheet-check-before-sharing",
+    "supplier-spend-analysis",
+    "budget-versus-actual-variance-commentary"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Profiling one supplied extract against its schema notes: the header check that stops on a mismatch, the claimed row grain tested against the data, duplicates split into identical rows and repeated keys with different values, blanks kept apart from placeholder text, formats and look-alike values, the far-out rule, the consistency rules the person lists, a note of what the findings touch for the intended use, questions for the data owner, and the rule that no row is changed, removed or judged, written for this template."
+    }
+  ]
+}

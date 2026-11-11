@@ -1,0 +1,46 @@
+{
+  "id": "analysis-plan",
+  "name": "Analysis plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before anyone opens the spreadsheet, the owner or manager gets a one-page plan: the question restated, the hypotheses, the fields and periods needed, and the result that would change the decision. It runs no analysis and states no finding. You own the question and the criteria.",
+  "directory": "https://fullypowered.ai/capabilities/analysis-plan/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/professional-services",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "budget-versus-actual-variance-commentary",
+    "operations-kpi-scorecard",
+    "supplier-spend-analysis"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own rules for prepared work: the person owns the question and the decision criteria, every gap is written as a question for a named role, and the assistant runs no analysis."
+    }
+  ]
+}

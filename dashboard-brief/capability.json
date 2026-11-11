@@ -1,0 +1,46 @@
+{
+  "id": "dashboard-brief",
+  "name": "Dashboard brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before anyone builds the dashboard, the requester gets one brief that settles the work: the decisions it serves, what is shown, each metric's definition, the filters, notes on every source and who refreshes it. The requester approves what is shown and the definitions.",
+  "directory": "https://fullypowered.ai/capabilities/dashboard-brief/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/ecommerce-and-retail",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "operations-kpi-scorecard",
+    "weekly-owner-business-brief",
+    "spreadsheet-check-before-sharing"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own rules for prepared work: the requester's decisions and the owner's exports as the only authority, stated column headers with a stop when one does not match, every gap written as a question, no figures invented, and nothing built or changed until a person decides."
+    }
+  ]
+}
