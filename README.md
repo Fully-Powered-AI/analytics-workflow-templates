@@ -31,7 +31,7 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [Fully Powered Workflows Directory](https://fullypowered.ai/workflow templates/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [Fully Powered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 ## Licence and credits
 

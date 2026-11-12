@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A manager holding a claim such as \"version B converts better\" and two groups of numbers gets back the method used, the size of the difference, how uncertain it is, the assumptions checked, and plain wording for what the data does and does not support. The manager decides what to do.",
-  "directory": "https://fullypowered.ai/workflow templates/comparison-claim-check/",
+  "directory": "https://fullypowered.ai/workflows/comparison-claim-check/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting",

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone opens the spreadsheet, the owner or manager gets a one-page plan: the question restated, the hypotheses, the fields and periods needed, and the result that would change the decision. It runs no analysis and states no finding. You own the question and the criteria.",
-  "directory": "https://fullypowered.ai/workflow templates/analysis-plan/",
+  "directory": "https://fullypowered.ai/workflows/analysis-plan/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting"

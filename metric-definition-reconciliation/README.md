@@ -2,7 +2,7 @@
 
 When two reports give different numbers for one metric, the owner gets a page: the definitions side by side, the gap bridged step by step from supplied records, each cause marked shown or not, and a proposed common measure. The owner chooses.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/metric-definition-reconciliation/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/metric-definition-reconciliation/)*
 
 ## The outcome
 
@@ -73,9 +73,9 @@ Testing in your environment means running it on a past disagreement your analyst
 
 ## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 

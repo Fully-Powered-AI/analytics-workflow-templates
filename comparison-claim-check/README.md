@@ -2,7 +2,7 @@
 
 A manager holding a claim such as "version B converts better" and two groups of numbers gets back the method used, the size of the difference, how uncertain it is, the assumptions checked, and plain wording for what the data does and does not support. The manager decides what to do.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/comparison-claim-check/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/comparison-claim-check/)*
 
 ## The outcome
 
@@ -78,9 +78,9 @@ Testing in your environment means running it on comparisons whose answers you al
 
 ## Related workflow templates
 
-- [Win-loss review](https://fullypowered.ai/workflow templates/win-loss-review/)
-- [Customer feedback themes](https://fullypowered.ai/workflow templates/customer-feedback-themes/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
+- [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/)
+- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
 
 ## Make it yours
 

@@ -2,7 +2,7 @@
 
 Before anyone builds the dashboard, the requester gets one brief that settles the work: the decisions it serves, what is shown, each metric's definition, the filters, notes on every source and who refreshes it. The requester approves what is shown and the definitions.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/dashboard-brief/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dashboard-brief/)*
 
 ## The outcome
 
@@ -76,9 +76,9 @@ Testing in your environment means running it on a dashboard request your analyst
 
 ## Related workflow templates
 
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
-- [Weekly owner business brief](https://fullypowered.ai/workflow templates/weekly-owner-business-brief/)
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Weekly owner business brief](https://fullypowered.ai/workflows/weekly-owner-business-brief/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
 
 ## Make it yours
 

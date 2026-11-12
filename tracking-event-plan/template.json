@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before analytics goes onto a website or app, the founder or product owner gets one plan: the events and properties worth collecting, when each fires, where it goes, what it is called and who owns it, each tied to a question the business needs answered. The owner approves what is collected.",
-  "directory": "https://fullypowered.ai/workflow templates/tracking-event-plan/",
+  "directory": "https://fullypowered.ai/workflows/tracking-event-plan/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting",

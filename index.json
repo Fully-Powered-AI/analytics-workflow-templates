@@ -9,7 +9,7 @@
       "version": "0.1.0",
       "summary": "Before anyone opens the spreadsheet, the owner or manager gets a one-page plan: the question restated, the hypotheses, the fields and periods needed, and the result that would change the decision. It runs no analysis and states no finding. You own the question and the criteria.",
       "path": "analysis-plan/",
-      "directory": "https://fullypowered.ai/workflow templates/analysis-plan/"
+      "directory": "https://fullypowered.ai/workflows/analysis-plan/"
     },
     {
       "id": "comparison-claim-check",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "A manager holding a claim such as \"version B converts better\" and two groups of numbers gets back the method used, the size of the difference, how uncertain it is, the assumptions checked, and plain wording for what the data does and does not support. The manager decides what to do.",
       "path": "comparison-claim-check/",
-      "directory": "https://fullypowered.ai/workflow templates/comparison-claim-check/"
+      "directory": "https://fullypowered.ai/workflows/comparison-claim-check/"
     },
     {
       "id": "dashboard-brief",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Before anyone builds the dashboard, the requester gets one brief that settles the work: the decisions it serves, what is shown, each metric's definition, the filters, notes on every source and who refreshes it. The requester approves what is shown and the definitions.",
       "path": "dashboard-brief/",
-      "directory": "https://fullypowered.ai/workflow templates/dashboard-brief/"
+      "directory": "https://fullypowered.ai/workflows/dashboard-brief/"
     },
     {
       "id": "dataset-profile",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.",
       "path": "dataset-profile/",
-      "directory": "https://fullypowered.ai/workflow templates/dataset-profile/"
+      "directory": "https://fullypowered.ai/workflows/dataset-profile/"
     },
     {
       "id": "metric-definition-reconciliation",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "When two reports give different numbers for one metric, the owner gets a page: the definitions side by side, the gap bridged step by step from supplied records, each cause marked shown or not, and a proposed common measure. The owner chooses.",
       "path": "metric-definition-reconciliation/",
-      "directory": "https://fullypowered.ai/workflow templates/metric-definition-reconciliation/"
+      "directory": "https://fullypowered.ai/workflows/metric-definition-reconciliation/"
     },
     {
       "id": "tracking-event-plan",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "Before analytics goes onto a website or app, the founder or product owner gets one plan: the events and properties worth collecting, when each fires, where it goes, what it is called and who owns it, each tied to a question the business needs answered. The owner approves what is collected.",
       "path": "tracking-event-plan/",
-      "directory": "https://fullypowered.ai/workflow templates/tracking-event-plan/"
+      "directory": "https://fullypowered.ai/workflows/tracking-event-plan/"
     }
   ]
 }

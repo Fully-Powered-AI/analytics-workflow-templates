@@ -2,7 +2,7 @@
 
 Before anyone opens the spreadsheet, the owner or manager gets a one-page plan: the question restated, the hypotheses, the fields and periods needed, and the result that would change the decision. It runs no analysis and states no finding. You own the question and the criteria.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/analysis-plan/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/analysis-plan/)*
 
 ## The outcome
 
@@ -75,9 +75,9 @@ Testing in your environment means running it on two or three past questions whos
 
 ## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
-- [Supplier spend analysis](https://fullypowered.ai/workflow templates/supplier-spend-analysis/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
 
 ## Make it yours
 

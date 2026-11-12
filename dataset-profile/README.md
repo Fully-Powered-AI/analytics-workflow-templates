@@ -2,7 +2,7 @@
 
 Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/dataset-profile/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dataset-profile/)*
 
 ## The outcome
 
@@ -77,9 +77,9 @@ Testing in your environment means running it on two or three extracts your analy
 
 ## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
-- [Supplier spend analysis](https://fullypowered.ai/workflow templates/supplier-spend-analysis/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 

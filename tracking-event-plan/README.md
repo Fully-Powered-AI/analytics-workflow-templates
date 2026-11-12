@@ -2,7 +2,7 @@
 
 Before analytics goes onto a website or app, the founder or product owner gets one plan: the events and properties worth collecting, when each fires, where it goes, what it is called and who owns it, each tied to a question the business needs answered. The owner approves what is collected.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/tracking-event-plan/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/tracking-event-plan/)*
 
 ## The outcome
 
@@ -79,9 +79,9 @@ Testing in your environment means running it on a journey you know well, with ca
 
 ## Related workflow templates
 
-- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
-- [Lead magnet plan](https://fullypowered.ai/workflow templates/lead-magnet-plan/)
-- [Creator campaign performance report](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
+- [Lead magnet plan](https://fullypowered.ai/workflows/lead-magnet-plan/)
+- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)
 
 ## Make it yours
 

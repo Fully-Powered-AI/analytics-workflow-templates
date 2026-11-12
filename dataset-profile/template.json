@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.",
-  "directory": "https://fullypowered.ai/workflow templates/dataset-profile/",
+  "directory": "https://fullypowered.ai/workflows/dataset-profile/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting"
