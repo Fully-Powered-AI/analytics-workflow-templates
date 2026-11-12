@@ -2,7 +2,7 @@
 
 Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.
 
-*Capability template · Analytics and reporting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/dataset-profile/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/dataset-profile/)*
 
 ## The outcome
 
@@ -40,7 +40,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when the other company's data arrives with no one left who built it.
 - [Private equity and portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), when a portfolio company's extracts must be understood quickly before they are compared.
 
-Before a finished workbook is sent out, [spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/) is the one to use. This capability is for a table you are about to start working with.
+Before a finished workbook is sent out, [spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/) is the one to use. This workflow template is for a table you are about to start working with.
 
 ## What has to change for your company
 
@@ -48,9 +48,9 @@ Write your schema notes once per source and keep them: the profile is only as go
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three extracts your analysts already know well, with faults planted in copies and written down in advance: a repeated key whose rows differ, a date in a second format, a stand-in word in a numeric column, a column missing from the notes. The analyst confirms each finding against the file before anyone relies on the profile. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three extracts your analysts already know well, with faults planted in copies and written down in advance: a repeated key whose rows differ, a date in a second format, a stand-in word in a numeric column, a column missing from the notes. The analyst confirms each finding against the file before anyone relies on the profile. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -61,11 +61,11 @@ Testing in your environment means running it on two or three extracts your analy
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -75,12 +75,12 @@ Testing in your environment means running it on two or three extracts your analy
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/capabilities/spreadsheet-check-before-sharing/)
-- [Supplier spend analysis](https://fullypowered.ai/capabilities/supplier-spend-analysis/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/capabilities/budget-versus-actual-variance-commentary/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflow templates/spreadsheet-check-before-sharing/)
+- [Supplier spend analysis](https://fullypowered.ai/workflow templates/supplier-spend-analysis/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

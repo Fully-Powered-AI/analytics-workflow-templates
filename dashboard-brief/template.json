@@ -1,10 +1,10 @@
 {
   "id": "dashboard-brief",
   "name": "Dashboard brief",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone builds the dashboard, the requester gets one brief that settles the work: the decisions it serves, what is shown, each metric's definition, the filters, notes on every source and who refreshes it. The requester approves what is shown and the definitions.",
-  "directory": "https://fullypowered.ai/capabilities/dashboard-brief/",
+  "directory": "https://fullypowered.ai/workflow templates/dashboard-brief/",
   "primary_function": "functions/analytics-and-reporting",
   "functions": [
     "functions/analytics-and-reporting"

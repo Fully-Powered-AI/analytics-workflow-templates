@@ -2,7 +2,7 @@
 
 Before analytics goes onto a website or app, the founder or product owner gets one plan: the events and properties worth collecting, when each fires, where it goes, what it is called and who owns it, each tied to a question the business needs answered. The owner approves what is collected.
 
-*Capability template · Analytics and reporting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/tracking-event-plan/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/tracking-event-plan/)*
 
 ## The outcome
 
@@ -42,7 +42,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the first analytics set-up shapes every report that follows.
 - [New business lines](https://fullypowered.ai/situations/new-business-lines/), where a new offer needs its own measures from day one.
 
-It is a different piece of work from [website findability audit](https://fullypowered.ai/capabilities/website-findability-audit/), which looks at whether search engines can reach and read your pages, and from [lead magnet plan](https://fullypowered.ai/capabilities/lead-magnet-plan/), which plans a free resource. Here the website or app already exists or is about to, and the question is what it should record.
+It is a different piece of work from [website findability audit](https://fullypowered.ai/workflows/website-findability-audit/), which looks at whether search engines can reach and read your pages, and from [lead magnet plan](https://fullypowered.ai/workflows/lead-magnet-plan/), which plans a free resource. Here the website or app already exists or is about to, and the question is what it should record.
 
 ## What has to change for your company
 
@@ -50,7 +50,7 @@ Write your own questions and the decision behind each; the plan is only as sharp
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example by Claude on 10 November 2026 (the second recorded run, which replaced a first); the record is in the trial. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example by Claude on 10 November 2026 (the second recorded run, which replaced a first); the record is in the trial. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a journey you know well, with cases written in advance: a question with no decision, an existing event whose name is close to a new one, a question that needs a personal detail. The owner and the builder read every trigger before anything is built.
 
@@ -63,11 +63,11 @@ Testing in your environment means running it on a journey you know well, with ca
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -77,12 +77,12 @@ Testing in your environment means running it on a journey you know well, with ca
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Website findability audit](https://fullypowered.ai/capabilities/website-findability-audit/)
-- [Lead magnet plan](https://fullypowered.ai/capabilities/lead-magnet-plan/)
-- [Creator campaign performance report](https://fullypowered.ai/capabilities/creator-campaign-performance-report/)
+- [Website findability audit](https://fullypowered.ai/workflow templates/website-findability-audit/)
+- [Lead magnet plan](https://fullypowered.ai/workflow templates/lead-magnet-plan/)
+- [Creator campaign performance report](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

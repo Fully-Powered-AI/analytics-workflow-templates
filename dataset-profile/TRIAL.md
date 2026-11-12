@@ -4,7 +4,7 @@
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This record covers two runs of the capability template on its own invented example, both on 10 November 2026. The inputs are the invented ones in [the example](example.md): the settings, the schema notes and the extract `order_lines_oct2026.csv` for the invented shop called Shop M. No client data was used. A short script recomputed the counts, medians and line numbers from the extract in both runs, as the template tells the assistant to recompute every figure.
+This record covers two runs of the workflow template on its own invented example, both on 10 November 2026. The inputs are the invented ones in [the example](example.md): the settings, the schema notes and the extract `order_lines_oct2026.csv` for the invented shop called Shop M. No client data was used. A short script recomputed the counts, medians and line numbers from the extract in both runs, as the template tells the assistant to recompute every figure.
 
 ## First run, and what it found
 

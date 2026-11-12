@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. The shop, the people, the files, the dates and the counts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own invented example. The shop, the people, the files, the dates and the counts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example, made the same day. The first run showed where the instructions left room to guess; the instructions, the output format and the example's output were revised, and the run recorded here was made on the revised instructions. The example's inputs did not change. What the first run found, and what was changed, is at the end.
 

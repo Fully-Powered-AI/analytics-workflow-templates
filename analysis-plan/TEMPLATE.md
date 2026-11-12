@@ -1,6 +1,6 @@
 # Analysis plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,8 +12,8 @@ Use it when someone has a new business question and a set of exports or systems,
 
 Do not use it:
 
-- to explain a movement that has already been measured against a budget. That is the budget-versus-actual variance commentary capability template;
-- to build or run a recurring set of measures. That is the operations KPI scorecard capability template;
+- to explain a movement that has already been measured against a budget. That is the budget-versus-actual variance commentary workflow template;
+- to build or run a recurring set of measures. That is the operations KPI scorecard workflow template;
 - to run the analysis, produce a figure or say what the data shows. The plan stops where the analysis starts;
 - when no decision sits behind the question. A request for "a look at the numbers" with no decision, option or owner is returned with that single question.
 
@@ -62,7 +62,7 @@ The assistant works only from what the person types or pastes. If rows of real d
 - **A term with two meanings, or a criterion missing a number:** write what is known, mark "not stated", and ask. Do not choose.
 - **A source that does not reach the period needed:** name where it starts and do not stretch it.
 - **Asked to run the analysis, give a likely answer, set a threshold, pick the best option, or say which hypothesis is right:** decline, name the person who decides, and record the request as an open question if it is a gap.
-- **The request is really for something outside this capability, such as legal advice, a contract, an employment document, a clinical question or a hiring decision:** decline it and say it is outside this capability.
+- **The request is really for something outside this workflow template, such as legal advice, a contract, an employment document, a clinical question or a hiring decision:** decline it and say it is outside what this template covers.
 
 ## Output format
 
@@ -212,7 +212,7 @@ If asked to run the analysis, give a likely answer, set a number, pick an
 option or say which hypothesis is right, decline and name the person who
 decides. If the request is legal advice, a contract, an employment
 document, clinical work or a hiring decision, decline; it is outside this
-capability. Check every cut-off date by counting before you return the
+workflow template. Check every cut-off date by counting before you return the
 plan.
 ```
 

@@ -1,6 +1,6 @@
 # Tracking event plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,10 +13,10 @@ Use it before a site or app is instrumented, when a new feature or step needs me
 Do not use it:
 
 - to write or review tracking code, tag set-ups or tool configuration. The builder does that from the approved plan;
-- to read reports, explain a number that moved or check an analysis. Other capabilities do that once data exists;
+- to read reports, explain a number that moved or check an analysis. Other workflow templates do that once data exists;
 - to say whether collecting something is allowed. That is for the owner and whoever advises them;
 - to audit whether search engines can find the pages, which is the website findability audit, or to plan a free resource, which is the lead magnet plan;
-- when there are no questions. The owner writes the first list; this capability does not invent them.
+- when there are no questions. The owner writes the first list; this workflow template does not invent them.
 
 ## Roles
 

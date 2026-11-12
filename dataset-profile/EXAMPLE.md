@@ -1,6 +1,6 @@
 # Dataset profile: an invented example
 
-*Illustrative example with invented data.* The company, the file, the people and every row below are invented. The company is an invented online homeware shop, called Shop M here. Its analyst has received a month of order lines from the shop's order system and wants to join them to a returns table. First come the inputs the analyst supplied, in full, then the profile the capability returned.
+*Illustrative example with invented data.* The company, the file, the people and every row below are invented. The company is an invented online homeware shop, called Shop M here. Its analyst has received a month of order lines from the shop's order system and wants to join them to a returns table. First come the inputs the analyst supplied, in full, then the profile the workflow template returned.
 
 ## The inputs
 

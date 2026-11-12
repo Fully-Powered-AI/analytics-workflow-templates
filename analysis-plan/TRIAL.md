@@ -6,7 +6,7 @@
 
 The inputs for this trial are the invented example in [example.md](example.md): five short lists about an invented 40-person online seller of garden furniture. No client data was used. Nothing real was pasted, and the example holds only file descriptions, no rows of data.
 
-I (the model) did not write this capability template. I followed its instructions block and output format on the five inputs from the example (the request note, source list, definitions, known events and settings), and then compared the result with the example's published plan and the template's reviewer checklist.
+I (the model) did not write this workflow template. I followed its instructions block and output format on the five inputs from the example (the request note, source list, definitions, known events and settings), and then compared the result with the example's published plan and the template's reviewer checklist.
 
 This is the second run. The first run, the same day, used an earlier wording of the block and raised the points that led to the edits below; this record replaces it. Since the first run the block has gained a rule for a period that falls wholly after a maturing cut-off, and says "one page where possible" in place of "one page". The example's inputs did not change.
 

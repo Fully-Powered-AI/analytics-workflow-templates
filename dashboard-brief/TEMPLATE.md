@@ -1,6 +1,6 @@
 # Dashboard brief
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it:
 
 - for a fixed monthly page of ten or fewer measures with targets and red levels. That is the Operations KPI scorecard;
 - for the owner's weekly one-page review of the business. That is the Weekly owner business brief;
-- to build the dashboard, connect it to a system or fill it with numbers. This capability produces the brief a builder works from;
+- to build the dashboard, connect it to a system or fill it with numbers. This workflow template produces the brief a builder works from;
 - to analyse why a number moved. That is a separate piece of work;
 - when there is no decision to serve. A dashboard with no decision attached has no purpose yet; the first question is what the requester will do differently because of it.
 

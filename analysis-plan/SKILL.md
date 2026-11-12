@@ -5,12 +5,12 @@ license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Analysis plan"
+  template: "Analysis plan"
 ---
 
 # Analysis plan
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -87,7 +87,7 @@ If asked to run the analysis, give a likely answer, set a number, pick an
 option or say which hypothesis is right, decline and name the person who
 decides. If the request is legal advice, a contract, an employment
 document, clinical work or a hiring decision, decline; it is outside this
-capability. Check every cut-off date by counting before you return the
+workflow template. Check every cut-off date by counting before you return the
 plan.
 
 ## Output format

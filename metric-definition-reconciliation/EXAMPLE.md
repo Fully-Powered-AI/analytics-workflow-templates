@@ -1,6 +1,6 @@
 # Metric definition reconciliation: an invented example
 
-*Illustrative example with invented data.* The shop, the people, the orders and the amounts below are all invented. The business is an invented online shop selling garden tools, with a finance lead, a marketing lead and one analyst. October's "Net sales" is 695.00 in the monthly management report and 692.00 on the marketing dashboard. The analyst runs the capability. First come the inputs, in full, then the page it returned.
+*Illustrative example with invented data.* The shop, the people, the orders and the amounts below are all invented. The business is an invented online shop selling garden tools, with a finance lead, a marketing lead and one analyst. October's "Net sales" is 695.00 in the monthly management report and 692.00 on the marketing dashboard. The analyst runs the workflow template. First come the inputs, in full, then the page it returned.
 
 ## The inputs
 
@@ -157,4 +157,4 @@ Questions before the metric owner decides: 4
 Draft for the Finance lead's decision. Nothing has been changed, sent or published, and no figure is declared correct.
 ```
 
-Every figure traces to the two definition sheets and the two extracts supplied above. The capability changes no report and names no figure as correct.
+Every figure traces to the two definition sheets and the two extracts supplied above. The workflow template changes no report and names no figure as correct.

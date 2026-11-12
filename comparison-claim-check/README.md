@@ -2,7 +2,7 @@
 
 A manager holding a claim such as "version B converts better" and two groups of numbers gets back the method used, the size of the difference, how uncertain it is, the assumptions checked, and plain wording for what the data does and does not support. The manager decides what to do.
 
-*Capability template · Analytics and reporting · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/comparison-claim-check/)*
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/comparison-claim-check/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ Someone says the new page, the new offer or the new process did better, and show
 
 The page names the method used and why it fits, gives the difference in plain units and as a range, and checks the things that quietly break a comparison: how the groups were formed, whether the split matches the plan, whether results were watched and the test stopped when it looked good, and whether several comparisons were tried until one worked (if that number is not given, the result cannot be called strong). It then states one of four support levels and the wording the data allows.
 
-The capability never says a change caused a result unless the groups were assigned at random, and it never turns a thin result into a confident one. The manager decides whether to act.
+The workflow template never says a change caused a result unless the groups were assigned at random, and it never turns a thin result into a confident one. The manager decides whether to act.
 
 ## Who starts the work, and when
 
@@ -41,7 +41,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when many changes are being tried quickly and each needs an honest reading.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/), when a pilot in one branch or team is the basis for a wider change.
 
-It is not a review of why deals were won or lost (see [win-loss review](https://fullypowered.ai/capabilities/win-loss-review/)) or a grouping of what customers say ([customer feedback themes](https://fullypowered.ai/capabilities/customer-feedback-themes/)). It compares two groups on one outcome.
+It is not a review of why deals were won or lost (see [win-loss review](https://fullypowered.ai/workflows/win-loss-review/)) or a grouping of what customers say ([customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)). It compares two groups on one outcome.
 
 ## What has to change for your company
 
@@ -49,7 +49,7 @@ Decide the usual confidence level and keep it for every claim. Write down the sm
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026, both times by the session that wrote and revised it, so neither run was blind; the record of the second run is published beside it. It has not yet been tested in a client environment.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026, both times by the session that wrote and revised it, so neither run was blind; the record of the second run is published beside it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on comparisons whose answers you already know: a real difference, no difference, a split that does not match the plan, and a result that was peeked at. The analyst should recompute every figure before the page is relied on.
 
@@ -62,11 +62,11 @@ Testing in your environment means running it on comparisons whose answers you al
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -76,12 +76,12 @@ Testing in your environment means running it on comparisons whose answers you al
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Win-loss review](https://fullypowered.ai/capabilities/win-loss-review/)
-- [Customer feedback themes](https://fullypowered.ai/capabilities/customer-feedback-themes/)
-- [Operations KPI scorecard](https://fullypowered.ai/capabilities/operations-kpi-scorecard/)
+- [Win-loss review](https://fullypowered.ai/workflow templates/win-loss-review/)
+- [Customer feedback themes](https://fullypowered.ai/workflow templates/customer-feedback-themes/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflow templates/operations-kpi-scorecard/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
