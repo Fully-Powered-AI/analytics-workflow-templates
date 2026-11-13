@@ -28,12 +28,36 @@
       "directory": "https://fullypowered.ai/workflows/dashboard-brief/"
     },
     {
+      "id": "data-domain-source-guide",
+      "name": "Source guide for a data domain",
+      "version": "0.1.0",
+      "summary": "When what a domain's tables really mean lives with one analyst, the data lead gets a written source guide from an interview and the table list: what one row is, the keys, the joins, the definitions and the known traps, each marked by where it came from, and the open points as numbered questions.",
+      "path": "data-domain-source-guide/",
+      "directory": "https://fullypowered.ai/workflows/data-domain-source-guide/"
+    },
+    {
+      "id": "data-quality-alert-trace",
+      "name": "Data-quality alert trace",
+      "version": "0.1.0",
+      "summary": "When a data-quality alert fires or a report looks wrong, the data team lead gets one investigation brief: the reports and people affected, the path the data takes, candidate causes ranked by the evidence supplied, and what to check next. It runs no query and changes nothing.",
+      "path": "data-quality-alert-trace/",
+      "directory": "https://fullypowered.ai/workflows/data-quality-alert-trace/"
+    },
+    {
       "id": "dataset-profile",
       "name": "Dataset profile",
       "version": "0.1.0",
       "summary": "Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.",
       "path": "dataset-profile/",
       "directory": "https://fullypowered.ai/workflows/dataset-profile/"
+    },
+    {
+      "id": "distribution-behind-an-average",
+      "name": "The distribution behind an average",
+      "version": "0.1.0",
+      "summary": "Before a service or process review leans on an average, the analyst gets the spread behind it: percentiles from the supplied rows, the extreme cases by line, and how each segment differs. Every figure recomputes from the export, and no cause is stated. The process owner decides what to look into.",
+      "path": "distribution-behind-an-average/",
+      "directory": "https://fullypowered.ai/workflows/distribution-behind-an-average/"
     },
     {
       "id": "metric-definition-reconciliation",

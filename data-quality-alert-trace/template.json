@@ -1,0 +1,47 @@
+{
+  "id": "data-quality-alert-trace",
+  "name": "Data-quality alert trace",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When a data-quality alert fires or a report looks wrong, the data team lead gets one investigation brief: the reports and people affected, the path the data takes, candidate causes ranked by the evidence supplied, and what to check next. It runs no query and changes nothing.",
+  "directory": "https://fullypowered.ai/workflows/data-quality-alert-trace/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "metric-definition-reconciliation",
+    "data-domain-source-guide",
+    "dataset-profile",
+    "dashboard-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own rules for prepared work: the supplied alert, lineage, change log and run log as the only evidence, every candidate ranked by stated tests and never called the cause, and a named data owner who confirms it."
+    }
+  ]
+}

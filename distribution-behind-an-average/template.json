@@ -1,0 +1,48 @@
+{
+  "id": "distribution-behind-an-average",
+  "name": "The distribution behind an average",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before a service or process review leans on an average, the analyst gets the spread behind it: percentiles from the supplied rows, the extreme cases by line, and how each segment differs. Every figure recomputes from the export, and no cause is stated. The process owner decides what to look into.",
+  "directory": "https://fullypowered.ai/workflows/distribution-behind-an-average/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting",
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/logistics-and-trade",
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "dataset-profile",
+    "comparison-claim-check",
+    "operations-kpi-scorecard"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Describing the spread of one service or process measure from a supplied export: the header check that stops on a mismatch, the rows counted and not counted, percentiles by nearest rank with the rule that withholds any percentile that would only repeat the largest value, the minimum segment size, the extreme-case cut and the far-out fence, segment differences stated as arithmetic, records to check kept in every figure, and the rule that no cause is stated, written for this template."
+    }
+  ]
+}

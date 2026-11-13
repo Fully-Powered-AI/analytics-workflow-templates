@@ -1,0 +1,47 @@
+{
+  "id": "data-domain-source-guide",
+  "name": "Source guide for a data domain",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When what a domain's tables really mean lives with one analyst, the data lead gets a written source guide from an interview and the table list: what one row is, the keys, the joins, the definitions and the known traps, each marked by where it came from, and the open points as numbered questions.",
+  "directory": "https://fullypowered.ai/workflows/data-domain-source-guide/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "dataset-profile",
+    "metric-definition-reconciliation",
+    "departing-employee-knowledge-capture"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own method for a source guide: six standard questions per table, a mark on every statement for where it came from, three kinds of count an analyst can run and paste back, conflicts kept side by side, and every gap a question for a named owner."
+    }
+  ]
+}
