@@ -272,4 +272,4 @@ point for the analytics owner. Return the page to the person who ran it.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by Fully Powered AI from its own published map of analytics work. Tried on its invented example in Claude on 11 November 2026, on the instructions as they stood that day; the record of that run is published with the template. Later edits were made after review (listed in the trial record) and have not been run again; the eleven acceptance tests, including the decline cases, are still to be run. Not yet tested in a client environment.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of analytics work. Tried on its invented example in Claude on 11 November 2026, on the instructions as they stood that day; the record of that run is published with the template. Later edits were made after review (listed in the trial record) and have not been run again; the eleven acceptance tests, including the decline cases, are still to be run. Not yet tested in a client environment.

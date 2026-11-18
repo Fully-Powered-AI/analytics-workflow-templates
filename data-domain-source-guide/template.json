@@ -25,7 +25,7 @@
     "departing-employee-knowledge-capture"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-12",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own method for a source guide: six standard questions per table, a mark on every statement for where it came from, three kinds of count an analyst can run and paste back, conflicts kept side by side, and every gap a question for a named owner."
+      "title": "FullyPowered AI's own published map of analytics and reporting work, and its own method for a source guide: six standard questions per table, a mark on every statement for where it came from, three kinds of count an analyst can run and paste back, conflicts kept side by side, and every gap a question for a named owner."
     }
   ]
 }

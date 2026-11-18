@@ -287,5 +287,5 @@ end with the draft line.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by Fully Powered AI. Editorially reviewed. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Editorially reviewed. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 - Revised 12 November 2026 after the first trial on the invented example: what counts as a described join, how an unnamed column is written, that a join gives a column no meaning, how shorthand table names are matched, and which traps a check adds.

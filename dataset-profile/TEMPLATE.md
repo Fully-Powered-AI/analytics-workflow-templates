@@ -244,4 +244,4 @@ and list the decisions instead.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI from its own published map of the work. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. After that first run the template was edited (a date order is tested only when a rule or the notes state it, and the settings, defaults and wording named in the record were settled), and the edited version has been run once more by the assistant that made the edits, not independently. It has not been tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. After that first run the template was edited (a date order is tested only when a rule or the notes state it, and the settings, defaults and wording named in the record were settled), and the edited version has been run once more by the assistant that made the edits, not independently. It has not been tested in a client environment.

@@ -48,11 +48,11 @@ Write your schema notes once per source and keep them: the profile is only as go
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three extracts your analysts already know well, with faults planted in copies and written down in advance: a repeated key whose rows differ, a date in a second format, a stand-in word in a numeric column, a column missing from the notes. The analyst confirms each finding against the file before anyone relies on the profile. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on two or three extracts your analy
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

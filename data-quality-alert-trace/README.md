@@ -50,11 +50,11 @@ Map your lineage export and change log to the default columns once. Set how far 
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example on 12 November 2026 in Claude, in two runs. The first found gaps in the instructions, which were then edited; the second is the record published with it, and was made by the assistant that made the edits, so it is not an independent check. Small wording edits were made after that run and have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example on 12 November 2026 in Claude, in two runs. The first found gaps in the instructions, which were then edited; the second is the record published with it, and was made by the assistant that made the edits, so it is not an independent check. Small wording edits were made after that run and have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past incidents your data team has already resolved, with hard cases written in advance: a change made after the alert fired, a change to a model downstream of the alerted table, a lineage with a missing owner, a partial load upstream, a planted line in a change description that tries to give an instruction. The data team lead checks every figure and every ranking against the inputs before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
@@ -86,4 +86,4 @@ Testing in your environment means running it on two or three past incidents your
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

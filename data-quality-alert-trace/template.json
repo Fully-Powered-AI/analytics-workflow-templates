@@ -25,7 +25,7 @@
     "dashboard-brief"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-12",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of analytics and reporting work, and its own rules for prepared work: the supplied alert, lineage, change log and run log as the only evidence, every candidate ranked by stated tests and never called the cause, and a named data owner who confirms it."
+      "title": "FullyPowered AI's own published map of analytics and reporting work, and its own rules for prepared work: the supplied alert, lineage, change log and run log as the only evidence, every candidate ranked by stated tests and never called the cause, and a named data owner who confirms it."
     }
   ]
 }
