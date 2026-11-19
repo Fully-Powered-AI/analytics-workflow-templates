@@ -4,9 +4,9 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-This record is of the second run. The template was first run the same day. That run found gaps in the instructions (listed below under "What the first run found"), and the instructions and the invented example were edited to close them. The second run, recorded here, was made by the same assistant that made the edits, after reading the first run's record. It is therefore not an independent check, and it shows only that the edited instructions can be followed to the brief below; it does not show that a reader who has not seen the first run would reach the same brief.
+This record is of the second run. The template was first run the same day. That run found gaps in the instructions (listed below under "What the first run found"), and the instructions and the example were edited to close them. The second run, recorded here, was made by the same assistant that made the edits, after reading the first run's record. It is therefore not an independent check, and it shows only that the edited instructions can be followed to the brief below; it does not show that a reader who has not seen the first run would reach the same brief.
 
-The inputs were the invented example in [example.md](example.md): the alert, the lineage notes, the change log, the run log, the report users list and the notes (which now include the time the brief is prepared), with default settings. No client data was used. The instruction block and output format were followed as written, and the brief was written from the inputs before it was compared with the example's published brief.
+The inputs were the example in [example.md](example.md): the alert, the lineage notes, the change log, the run log, the report users list and the notes (which now include the time the brief is prepared), with default settings. No client data was used. The instruction block and output format were followed as written, and the brief was written from the inputs before it was compared with the example's published brief.
 
 ## What the first run found
 

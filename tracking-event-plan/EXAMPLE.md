@@ -1,6 +1,6 @@
-# Tracking event plan: an invented example
+# Tracking event plan: an example
 
-*Illustrative example with invented data.* The company, the tools and the people below are all invented. Studio L is an invented 12-person workshop that makes furniture to order and takes quote requests through its website. Its two tools are called Tool A (analytics) and Tool B (email service). The founder is about to have a contractor add tracking to the site. First come the inputs the founder supplied, in full, then the plan the workflow template returned.
+*Illustrative example with sample data.* The company, the tools and the people below are all illustrative. Studio L is an illustrative 12-person workshop that makes furniture to order and takes quote requests through its website. Its two tools are called Tool A (analytics) and Tool B (email service). The founder is about to have a contractor add tracking to the site. First come the inputs the founder supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

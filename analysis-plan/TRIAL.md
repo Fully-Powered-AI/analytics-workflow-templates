@@ -1,10 +1,10 @@
-# Analysis plan: a trial on the invented example
+# Analysis plan: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example in [example.md](example.md): five short lists about an invented 40-person online seller of garden furniture. No client data was used. Nothing real was pasted, and the example holds only file descriptions, no rows of data.
+The inputs for this trial are the example in [example.md](example.md): five short lists about an illustrative 40-person online seller of garden furniture. No client data was used. Nothing real was pasted, and the example holds only file descriptions, no rows of data.
 
 I (the model) did not write this workflow template. I followed its instructions block and output format on the five inputs from the example (the request note, source list, definitions, known events and settings), and then compared the result with the example's published plan and the template's reviewer checklist.
 
@@ -108,4 +108,4 @@ This plan runs no analysis and states no finding. The question and the decision 
 
 **Shortcomings of the template as observed.** The instructions block is long and I had to hold the full section 4 rules in mind while writing. The template leaves it to the assistant to decide how many separate questions to raise, so two runs will not give the same list. Reviewer checklist item 5 (source owners confirm the columns) cannot be judged from the output alone.
 
-**What this trial does not show.** It is one run, by one model, on an invented example. It says nothing about how the template works with real data, in other AI products or for a real client.
+**What this trial does not show.** It is one run, by one model, on an example. It says nothing about how the template works with real data, in other AI products or for a real client.

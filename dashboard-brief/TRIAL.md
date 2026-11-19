@@ -1,15 +1,15 @@
-# Dashboard brief: a trial on its invented example
+# Dashboard brief: a trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The shop, the people, the files, the dates and the counts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The shop, the people, the files, the dates and the counts are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example, made the same day. The first run showed where the instructions left room to guess; the instructions, the output format and the example's output were revised, and the run recorded here was made on the revised instructions. The example's inputs did not change. What the first run found, and what was changed, is at the end.
 
-The inputs were the invented example for Tern Hollow Candles: the requester's notes, the decision sheet, the metric list and the source sheet, as printed in `public/example.md` under "What the person supplies". The preparation date was 3 November 2026. The pasted instruction block and the output format were followed as written, and nothing else was added. The assistant built nothing and was given no settings, so the defaults applied.
+The inputs were the example for Tern Hollow Candles: the requester's notes, the decision sheet, the metric list and the source sheet, as printed in `public/example.md` under "What the person supplies". The preparation date was 3 November 2026. The pasted instruction block and the output format were followed as written, and nothing else was added. The assistant built nothing and was given no settings, so the defaults applied.
 
 ## What came out
 
@@ -162,7 +162,7 @@ This brief was prepared on 3 November 2026 from the inputs supplied. It builds n
   - Counting "orders" as different order_id values on an export with one row per order line is the brief's reading of a word in the supplied formulas of M5 and M8. The instructions allow it but do not require it; it is stated in the brief and tied to Question 4.
   - The form for each metric came from the default in step 7 (number with the prior period beside it, table by item for an item grain). A requester who wants a trend line has to say so.
   - The missing-data wording for M4 was changed to "no sales in the window", because the window itself is Question 3.
-- **Shortcomings of this trial.** One run, by one model, on one invented example. The run was not blind: the same session had read the example's earlier output and the first run's record before it wrote this brief, so agreement with the example is not independent evidence, and this brief is also the published example. The first run was likewise not fully blind, because part of the example's earlier output was shown alongside the inputs. The template's acceptance tests were not run, and the template has not been tried in ChatGPT, Copilot or Gemini.
+- **Shortcomings of this trial.** One run, by one model, on one example. The run was not blind: the same session had read the example's earlier output and the first run's record before it wrote this brief, so agreement with the example is not independent evidence, and this brief is also the published example. The first run was likewise not fully blind, because part of the example's earlier output was shown alongside the inputs. The template's acceptance tests were not run, and the template has not been tried in ChatGPT, Copilot or Gemini.
 
 ## What the first run found, and what was changed
 

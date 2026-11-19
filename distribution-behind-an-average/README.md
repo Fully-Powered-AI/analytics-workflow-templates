@@ -8,7 +8,7 @@ See the spread behind an average: percentiles from your export, extreme cases by
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/distribution-behind-an-average/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average)*
@@ -37,7 +37,7 @@ An analyst, or an operations lead who owns a service or process measure, starts 
 
 One page in a fixed order: the header check and the rows counted and not counted; the whole population's mean, minimum, percentiles from P25 to P95 and maximum, with a few lines on what the average leaves out; the same figures for each segment; the differences between each segment and the whole; the extreme cases, largest first, each with its line number; records to check; numbered points for the analytics owner to confirm; numbered choices for the process owner; and what the page does not show. A section with nothing to report says what was checked and that none was found.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Write down once how your exports name the four columns, so the mapping travels w
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of analytics work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, on the instructions as they stood that day; the record of that run is published with the template, and later edits have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of analytics work. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, on the instructions as they stood that day; the record of that run is published with the template, and later edits have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past months whose spread your analyst already knows, with cases written in advance: a header that does not match, a row outside the window, a blank measure, a zero, a record that appears twice, a segment too small for its own percentiles. The analyst recomputes every figure from the sorted export before anyone relies on the page. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on two or three past months whose s
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

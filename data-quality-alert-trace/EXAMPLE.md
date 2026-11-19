@@ -1,6 +1,6 @@
-# Data-quality alert trace: an invented example
+# Data-quality alert trace: an example
 
-*Illustrative example with invented data.* The shop, the people, the tables, the tickets, the payment provider and every figure below are invented. The business is an invented online kitchenware shop of about 60 people, with a small data team: a data team lead, two data engineers and an analytics engineer. At 06:10 on 11 November 2026 the daily row count on the cleaned orders table fails. The data team lead runs the workflow template at 08:15. First come the inputs, in full, then the brief it returned.
+*Illustrative example with sample data.* The shop, the people, the tables, the tickets, the payment provider and every figure below are illustrative. The business is an illustrative online kitchenware shop of about 60 people, with a small data team: a data team lead, two data engineers and an analytics engineer. At 06:10 on 11 November 2026 the daily row count on the cleaned orders table fails. The data team lead runs the workflow template at 08:15. First come the inputs, in full, then the brief it returned.
 
 ## The inputs
 

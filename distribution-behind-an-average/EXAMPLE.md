@@ -1,6 +1,6 @@
-# The distribution behind an average: an invented example
+# The distribution behind an average: an example
 
-*Illustrative example with invented data.* The company, the export, the roles and every row below are invented. The company is an invented software company, called Company K here, with a support desk of four queues. Its support analyst is preparing the October service review, where the headline figure has always been the average time to resolve a ticket. First come the inputs the analyst supplied, in full, then the page the workflow template returned.
+*Illustrative example with sample data.* The company, the export, the roles and every row below are illustrative. The company is an illustrative software company, called Company K here, with a support desk of four queues. Its support analyst is preparing the October service review, where the headline figure has always been the average time to resolve a ticket. First come the inputs the analyst supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

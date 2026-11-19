@@ -1,6 +1,6 @@
-# Metric definition reconciliation: an invented example
+# Metric definition reconciliation: an example
 
-*Illustrative example with invented data.* The shop, the people, the orders and the amounts below are all invented. The business is an invented online shop selling garden tools, with a finance lead, a marketing lead and one analyst. October's "Net sales" is 695.00 in the monthly management report and 692.00 on the marketing dashboard. The analyst runs the workflow template. First come the inputs, in full, then the page it returned.
+*Illustrative example with sample data.* The shop, the people, the orders and the amounts below are all illustrative. The business is an illustrative online shop selling garden tools, with a finance lead, a marketing lead and one analyst. October's "Net sales" is 695.00 in the monthly management report and 692.00 on the marketing dashboard. The analyst runs the workflow template. First come the inputs, in full, then the page it returned.
 
 ## The inputs
 

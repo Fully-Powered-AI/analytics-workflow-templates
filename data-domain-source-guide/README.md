@@ -8,7 +8,7 @@ Turn one analyst's knowledge of a data domain into a guide: grain, keys, joins, 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/data-domain-source-guide/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-domain-source-guide&from=gh-analytics-data-domain-source-guide)*
@@ -38,7 +38,7 @@ It connects to no database or catalogue and never asks for a login. Anyone who w
 
 One guide in a fixed order: the scope, then each table with its six standard answers, the columns with and without a recorded meaning, and the personal data columns named but never shown; the joins with their proportions and conditions; the definitions; the known traps, each with what the analyst said to do instead; the conflicts between what was said and what a count showed; the numbered open questions, each for a named role or team; and the counts to run next to confirm the joins. A section with nothing in it says so. Without interview notes it returns the interview sheet instead and drafts nothing.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Set the columns of your table list to match what your catalogue or warehouse exp
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026; the record is published with it. The first run found that the instructions did not say when a relationship the analyst describes counts as a join, or how a column the analyst did not name is written; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its example in Claude on 12 November 2026; the record is published with it. The first run found that the instructions did not say when a relationship the analyst describes counts as a join, or how a column the analyst did not name is written; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a domain your senior analyst already knows well, with cases written in advance: a key whose count does not hold, a column nobody can explain, a statement made with doubt, a login detail left in the notes. The domain analyst checks every line against the notes before anyone relies on the guide. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-domain-source-guide&from=gh-analytics-data-domain-source-guide) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-domain-source-guide&from=gh-analytics-data-domain-source-guide) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on a domain your senior analyst alr
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

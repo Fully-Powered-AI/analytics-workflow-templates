@@ -1,10 +1,10 @@
-# Tracking event plan: tried on its invented example
+# Tracking event plan: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (Studio L, Tool A and Tool B). No client data was used. This is the second recorded run. The first run, earlier the same day by a different model session, led to changes in the template's instruction block and output format and in the example (see "What changed since the first run"), so it no longer describes the published template and is replaced by this record. This run was a single attempt by the same model session that revised the template and the example, with the revised example open. It followed the revised instruction block and output format, but it was not written blind, and its agreement with the example is weak evidence for that reason.
+The inputs are the example in [example.md](example.md) (Studio L, Tool A and Tool B). No client data was used. This is the second recorded run. The first run, earlier the same day by a different model session, led to changes in the template's instruction block and output format and in the example (see "What changed since the first run"), so it no longer describes the published template and is replaced by this record. This run was a single attempt by the same model session that revised the template and the example, with the revised example open. It followed the revised instruction block and output format, but it was not written blind, and its agreement with the example is weak evidence for that reason.
 
 ## Inputs used
 
@@ -109,7 +109,7 @@ Draft for the Founder's approval. Nothing has been built, switched on or sent.
 - **Anything told to stop for.** None.
 - **Facts not in the inputs.** The property value `other` for `page_type`; the suggested names `page_viewed` and `quote_submitted`; the remarks about reloads and second presses, which are checks for the builder and not facts about the site; the note that Tool A's treatment of a renamed event is unknown.
 - **Reviewer checklist.** Read against this plan, all ten points pass. Point 6 holds because both names that break the rule are listed and flagged. Point 5 holds because nothing was renamed or dropped.
-- **Limits of this trial.** One run, one model, one invented example, and the example was in view when the plan was written. It shows the revised template can be followed to a complete plan on a small case. It does not show that a different run would flag the same items.
+- **Limits of this trial.** One run, one model, one example, and the example was in view when the plan was written. It shows the revised template can be followed to a complete plan on a small case. It does not show that a different run would flag the same items.
 
 ## Edits made after this run
 

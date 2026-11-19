@@ -4,7 +4,7 @@
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-19.
 
-The inputs are the invented example (Company X, an invented homeware retailer). No client data was used.
+The inputs are the example (Company X, an illustrative homeware retailer). No client data was used.
 
 ## Inputs used
 
@@ -35,8 +35,8 @@ Every section of the format was produced, and the count line added up.
   - The output format shows "[n] owners, [n] items" in section 7 without saying whether the items include those under "No owner to ask". The example counts them (8); I did too.
   - The wording of an export question is not fixed, so two runs will word it differently.
   - Steps 3 and 4 still carry the bracket "[your unused limit]" inside the procedure, so the procedure cannot be read as written until it is filled in.
-  - The version notes still say "Not yet tried on its invented example"; that line needs updating after this trial.
-- The result is one run by one model on one invented example. It shows the instructions can be followed to a full output; it does not show how the template performs on a real export or in other products.
+  - The version notes still say "Not yet tried on its example"; that line needs updating after this trial.
+- The result is one run by one model on one example. It shows the instructions can be followed to a full output; it does not show how the template performs on a real export or in other products.
 
 ## After this run
 
@@ -46,7 +46,7 @@ The defects listed above (the export date, the bracket placeholder in steps 3 an
 
 - **Product:** Claude, run in Claude Code
 
-Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-19. The inputs are the same invented example (Company X); no client data was used.
+Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-19. The inputs are the same example (Company X); no client data was used.
 
 After a second review, the instruction block was changed: it now carries the four fixed questions, the reason labels, the export question wording, the question for an unstated decider, the mapping of each bad field to the checks it feeds, the optional export date and one ordering rule. I re-ran the revised block, followed by the output format, on the example's three inputs, working from the block and the format alone and not from the procedure.
 

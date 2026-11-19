@@ -136,7 +136,7 @@ This brief was prepared on [date] from the inputs supplied. It builds no connect
 
 ## Acceptance tests
 
-Proposed tests. None has been run; the two runs so far, on the invented example, are not runs of these.
+Proposed tests. None has been run; the two runs so far, on the example, are not runs of these.
 
 1. **Normal request.** Three decisions, eight metrics, three exports. Expected: all ten sections complete; supplied formulas unchanged; a blank formula marked PROPOSED.
 2. **Renamed header.** The metric list has `metric_name` in place of `metric`. Expected: stops, shows expected and found headers, asks.
@@ -256,4 +256,4 @@ brief.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in two runs; the record is `public/trial.md`. The first run found gaps, which this version closes: supplied formulas are now kept word for word with gaps raised as questions, a grain may name the item a source's rows describe, each export owner has an approval line, the refresh check is one comparison, and dates are all in words. The revised instructions were then run once more, and that second run is the one recorded; it was not fully blind, because the example's earlier output had been read. No edit to the instructions, the output format or the example has been made since. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 10 November 2026 in two runs; the record is `public/trial.md`. The first run found gaps, which this version closes: supplied formulas are now kept word for word with gaps raised as questions, a grain may name the item a source's rows describe, each export owner has an approval line, the refresh check is one comparison, and dates are all in words. The revised instructions were then run once more, and that second run is the one recorded; it was not fully blind, because the example's earlier output had been read. No edit to the instructions, the output format or the example has been made since. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -250,4 +250,4 @@ looks answerable. Name the person who does that instead.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its invented example by Claude on 10 November 2026 (the second recorded run, which replaced a first; see the trial record in the public folder); not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Tried on its example by Claude on 10 November 2026 (the second recorded run, which replaced a first; see the trial record in the public folder); not yet tested in a client environment.

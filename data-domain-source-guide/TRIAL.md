@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-This record covers two runs of the workflow template on its own invented example, both on 12 November 2026. The inputs are the invented ones in [example.md](example.md): the scope note, the table list, the interview notes and the counts, all invented. No client data was used.
+This record covers two runs of the workflow template on its own example, both on 12 November 2026. The inputs are the sample ones in [example.md](example.md): the scope note, the table list, the interview notes and the counts, all illustrative. No client data was used.
 
 ## First run, and what it found
 
@@ -46,7 +46,7 @@ The first run was done by a model that did not write the template. It read the t
 
 **Against the reviewer checklist.** Items 1, 2, 3, 5, 6 and 7 hold for my output. Item 4 (no shared name written as a join) is only partly met, because of point 1 above. Item 8 (owners read their lines) cannot be checked from a single run.
 
-**Shortcomings (first run).** This was one run by one model on one invented example. It shows the template can be followed to a complete guide; it does not show that every acceptance test passes, and the template is not tested in a client environment. The example and the first run disagreed on three points (the refund joins, the meaning of refunds.order_id and the extra questions), which means the template left room for different readings.
+**Shortcomings (first run).** This was one run by one model on one example. It shows the template can be followed to a complete guide; it does not show that every acceptance test passes, and the template is not tested in a client environment. The example and the first run disagreed on three points (the refund joins, the meaning of refunds.order_id and the extra questions), which means the template left room for different readings.
 
 ## Edits made after the first run
 
@@ -60,7 +60,7 @@ The first run was done by a model that did not write the template. It read the t
 - **Shorthand table names** ("orders", "customers") are matched when exactly one listed table has that name after its schema prefix; otherwise a question comes first in the numbering.
 - **Dates and numbers** are written as in the scope note and with thousands separators.
 - Two acceptance tests were added: relationship without column names (now test 13) and shorthand table name (now test 15; test 14 was added later, in review).
-- The profile and the FAQ now say the template was tried on its invented example, and the example says "not in the table list" for finance.fx_rates.
+- The profile and the FAQ now say the template was tried on its example, and the example says "not in the table list" for finance.fx_rates.
 
 ## Second run
 
@@ -198,7 +198,7 @@ Draft for the Senior analyst to verify and the Head of data to approve. Built on
 
 ### Shortcomings
 
-Two runs of one template on one invented example, the second by the assistant that made the changes. It shows the template can be followed to a complete guide and that the two defects of the first run are closed on this example; it does not show that every acceptance test passes, and the template is not tested in a client environment.
+Two runs of one template on one example, the second by the assistant that made the changes. It shows the template can be followed to a complete guide and that the two defects of the first run are closed on this example; it does not show that every acceptance test passes, and the template is not tested in a client environment.
 
 ## Edits after independent review (12 November 2026)
 

@@ -8,7 +8,7 @@ Before analytics goes onto a website or app, get one plan of the events and prop
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan)*
@@ -39,7 +39,7 @@ The owner approves what is collected. The person who builds it confirms the plan
 
 One dated plan, in a fixed order: each question with the measure that answers it, or the reason it cannot be answered yet; each event with when it fires, when it does not, its properties, its destinations, its owner and how to check it once built; existing events that were not reused and why; fields held for the owner and fields on the journey that are not collected; and a numbered list of decisions for the owner. Nothing is built, switched on or sent.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Write your own questions and the decision behind each; the plan is only as sharp
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example by Claude on 10 November 2026 (the second recorded run, which replaced a first); the record is in the trial. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example by Claude on 10 November 2026 (the second recorded run, which replaced a first); the record is in the trial. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a journey you know well, with cases written in advance: a question with no decision, an existing event whose name is close to a new one, a question that needs a personal detail. The owner and the builder read every trigger before anything is built.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on a journey you know well, with ca
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

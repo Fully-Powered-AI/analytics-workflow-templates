@@ -4,7 +4,7 @@
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This record covers two runs of the workflow template on its own invented example, both on 10 November 2026. The inputs are the invented ones in [the example](example.md): the settings, the schema notes and the extract `order_lines_oct2026.csv` for the invented shop called Shop M. No client data was used. A short script recomputed the counts, medians and line numbers from the extract in both runs, as the template tells the assistant to recompute every figure.
+This record covers two runs of the workflow template on its own example, both on 10 November 2026. The inputs are the sample ones in [the example](example.md): the settings, the schema notes and the extract `order_lines_oct2026.csv` for the illustrative shop called Shop M. No client data was used. A short script recomputed the counts, medians and line numbers from the extract in both runs, as the template tells the assistant to recompute every figure.
 
 ## First run, and what it found
 
@@ -126,4 +126,4 @@ Facts in the output that are not in the inputs: none. Section 8 states what the 
 
 After this record was written, the template was edited to settle guesses 2 and 3 (an identifier column may also be a key column and still gets its own line; findings that call for the same options may share a decision line). The template was not run again after those edits, and they change no figure in the profile above. Questions 7 and 9 in the profile above were also reworded by hand after the run, in the example and here alike. The run produced "and what are the correct codes?" at the end of question 7 and "Which date is recorded wrongly?" as question 9; both were made neutral. Nothing else in the record was altered.
 
-One run on one invented file shows that the revised template can be followed and produces a complete profile. It does not show that the template works on a real extract, on a larger or messier file, or in any other product.
+One run on one sample file shows that the revised template can be followed and produces a complete profile. It does not show that the template works on a real extract, on a larger or messier file, or in any other product.

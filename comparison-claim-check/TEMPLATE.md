@@ -234,4 +234,4 @@ decision to the person.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Run twice on its invented example in Claude on 10 November 2026, both by the session that wrote and revised it, so neither run was blind; the record of the second run is published beside it. The instruction block was amended afterwards in small ways (the health, safety, legal and hiring decline, summary-only numeric outcomes, the support-level rule for a p-value not under 0.05 over k, and several rules restated that the block had left out) and not re-run. Not yet tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Run twice on its example in Claude on 10 November 2026, both by the session that wrote and revised it, so neither run was blind; the record of the second run is published beside it. The instruction block was amended afterwards in small ways (the health, safety, legal and hiring decline, summary-only numeric outcomes, the support-level rule for a p-value not under 0.05 over k, and several rules restated that the block had left out) and not re-run. Not yet tested in a client environment.

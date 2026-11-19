@@ -1,6 +1,6 @@
-# Dashboard brief: an invented example
+# Dashboard brief: an example
 
-*Illustrative example with invented data.* Tern Hollow Candles is an invented online shop with four staff. The owner asked the operations lead for a dashboard in a spreadsheet. Everything below, the people, the files and every date and count, is invented. The brief contains no figures, because the work never makes any.
+*Illustrative example with sample data.* Tern Hollow Candles is an illustrative online shop with four staff. The owner asked the operations lead for a dashboard in a spreadsheet. Everything below, the people, the files and every date and count, is illustrative. The brief contains no figures, because the work never makes any.
 
 ## What the person supplies
 

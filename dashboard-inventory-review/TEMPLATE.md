@@ -139,7 +139,7 @@ Draft for [who decides retirement]. Nothing has been retired, deleted, moved, re
 
 ## Acceptance tests
 
-Proposed tests. Only test 1 has been run, once, on the invented example on 19 November 2026 (`public/trial.md`); the rest have not been run.
+Proposed tests. Only test 1 has been run, once, on the example on 19 November 2026 (`public/trial.md`); the rest have not been run.
 
 1. **Ordinary review.** Fourteen items, a 90-day limit, one exempt folder, a leavers list and one retiring source. Expected: every section filled or "None.", and the count line adds up.
 2. **Header named differently.** The export says `last_view` instead of `last_viewed_at`. Expected: stops, lists the headers expected and found, and asks.
@@ -259,4 +259,4 @@ Recompute every count and day before you return the review.
 
 ## Version notes
 
-- 0.1.0, 19 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its invented example on 19 November 2026 (`public/trial.md`); the run was not blind, because the tester had seen the published output first. After that run a reviewer's points were applied: the placeholder in steps 3 and 4 was replaced by the team's unused limit, a note on the 90 days of the view-field check, the export date as an optional input, a note on the item count in section 7 and one example export question. On 19 November 2026 a second review's points were applied, and the instruction block was changed: it now carries the four fixed questions and the reason labels, the export question wording and the missing-decider question, the mapping of each bad field to the checks it feeds, the optional export date, and one ordering rule that agrees with the procedure. The example's output was unchanged, and the trial was re-run (`public/trial.md`). Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 19 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried once on its example on 19 November 2026 (`public/trial.md`); the run was not blind, because the tester had seen the published output first. After that run a reviewer's points were applied: the placeholder in steps 3 and 4 was replaced by the team's unused limit, a note on the 90 days of the view-field check, the export date as an optional input, a note on the item count in section 7 and one example export question. On 19 November 2026 a second review's points were applied, and the instruction block was changed: it now carries the four fixed questions and the reason labels, the export question wording and the missing-decider question, the mapping of each bad field to the checks it feeds, the optional export date, and one ordering rule that agrees with the procedure. The example's output was unchanged, and the trial was re-run (`public/trial.md`). Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

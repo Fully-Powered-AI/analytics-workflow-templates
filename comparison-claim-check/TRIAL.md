@@ -1,10 +1,10 @@
-# Comparison claim check: trial on the invented example
+# Comparison claim check: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the Shop X checkout test): the claim, the two-row summary, and the notes from the person. No client data was used. This is the second run. The first run, on the template as first written, found gaps in it (no home for an unknown number of comparisons, no place for a decline, no rule for missing values in a summary, overlap between groups, no formula for Cohen's h); the template was revised to close them, and this run is on the revised template. It was done by the same session that made the revisions, so it is not an independent run. The session had read the example's output before this run, and the output below starts from the first run's text, changed only where the revised template requires (the check 5 name, the Cannot check for missing values, the Cohen's h formula); the figures were recomputed. Treat it as a check that the revised template still yields a conforming page, not as a blind trial.
+The inputs are the example in `public/example.md` (the Shop X checkout test): the claim, the two-row summary, and the notes from the person. No client data was used. This is the second run. The first run, on the template as first written, found gaps in it (no home for an unknown number of comparisons, no place for a decline, no rule for missing values in a summary, overlap between groups, no formula for Cohen's h); the template was revised to close them, and this run is on the revised template. It was done by the same session that made the revisions, so it is not an independent run. The session had read the example's output before this run, and the output below starts from the first run's text, changed only where the revised template requires (the check 5 name, the Cannot check for missing values, the Cohen's h formula); the figures were recomputed. Treat it as a check that the revised template still yields a conforming page, not as a blind trial.
 
 ## What came out
 
@@ -62,5 +62,5 @@ Every figure was calculated from the data supplied, using Python's standard libr
 ### Shortcomings
 
 - The instruction block was amended after this run in small ways (the health, safety, legal and hiring decline, a rule for numeric outcomes given only as a summary, the support-level rule for a p-value not under 0.05 over k, and restating rules the block had omitted: effect-size labels, the per-1,000 figure, the 5% missing and 5-standard-deviation checks, and "significant" never without its number). None changes this example's inputs, output format or figures, so the run was not repeated and the output above is unchanged; the amended block itself has not been run.
-- One run recorded, one model, one invented example, and not independent of the revisions. It says nothing about other data, other products or a client's setting.
+- One run recorded, one model, one example, and not independent of the revisions. It says nothing about other data, other products or a client's setting.
 - The edge rules added after the first run (unknown number of comparisons, known against possible overlap, numeric outcomes) have not been run.

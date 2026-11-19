@@ -8,7 +8,7 @@ Hold a claim like version B converts better against two groups of numbers and ge
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)*
@@ -38,7 +38,7 @@ An analyst, a marketing or product manager, or an owner starts it when a claim a
 
 One page in a fixed order: the support level, the claim, what was compared, the method, the result with its range, seven assumption checks each marked as passed, flagged or not checkable, what the data supports, what it does not support, questions for the manager, and a sentence that can go into a report. Where a section has nothing to say it says so.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Decide the usual confidence level and keep it for every claim. Write down the sm
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its invented example in Claude on 10 November 2026, both times by the session that wrote and revised it, so neither run was blind; the record of the second run is published beside it. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run twice on its example in Claude on 10 November 2026, both times by the session that wrote and revised it, so neither run was blind; the record of the second run is published beside it. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on comparisons whose answers you already know: a real difference, no difference, a split that does not match the plan, and a result that was peeked at. The analyst should recompute every figure before the page is relied on.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on comparisons whose answers you al
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

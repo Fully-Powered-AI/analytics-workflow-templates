@@ -1,6 +1,6 @@
-# Comparison claim check: an invented example
+# Comparison claim check: an example
 
-*Illustrative example with invented data.* An invented online shop, "Shop X", has tried a new checkout page. Everything below, including the company, the message and the numbers, is made up to show the shape of the work.
+*Illustrative example with sample data.* An illustrative online shop, "Shop X", has tried a new checkout page. Everything below, including the company, the message and the numbers, is made up to show the shape of the work.
 
 ## What the person supplies
 

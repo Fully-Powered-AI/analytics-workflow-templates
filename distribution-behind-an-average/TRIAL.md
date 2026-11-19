@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-11
 
-The inputs were the invented example in `public/example.md`: its settings and its export of 43 invented support tickets. No client data was used. The run was one attempt, by a model that did not write the template. The model followed the fenced instruction block and the output format, and used a short script only as a calculator to check percentiles, means and counts against the export. It did not read the example's published page until its own page was finished.
+The inputs were the example in `public/example.md`: its settings and its export of 43 illustrative support tickets. No client data was used. The run was one attempt, by a model that did not write the template. The model followed the fenced instruction block and the output format, and used a short script only as a calculator to check percentiles, means and counts against the export. It did not read the example's published page until its own page was finished.
 
 ## Inputs used
 
@@ -93,7 +93,7 @@ Every figure is computed from the 41 counted rows of resolution_times_oct2026.cs
   - Which neutral options "fit" a given choice is left to the assistant, which is why the published page and this run differ for Billing.
 - **One slip during the run.** The first copy of the export taken for the check dropped its last two rows, which gave 39 counted rows and different figures. The mismatch with the count of Technical tickets showed it, the copy was redone from the file, and every figure on the page above comes from the full 43 rows.
 - **Shortcomings of the template found:**
-  - Its version notes still say "Not yet tried on its invented example", and its acceptance tests are marked as not run. This run covered the example only, not those eleven tests, and none of the decline cases (asking for a cause, for significance, or to drop the 140-hour ticket) was tried.
+  - Its version notes still say "Not yet tried on its example", and its acceptance tests are marked as not run. This run covered the example only, not those eleven tests, and none of the decline cases (asking for a cause, for significance, or to drop the 140-hour ticket) was tried.
   - The output is long for a reader: nine sections, and the points and choices repeat figures from the sections above.
   - Percentiles that are printed "as written" depend on how the export writes numbers, so an export of whole numbers would print differently from this one.
 

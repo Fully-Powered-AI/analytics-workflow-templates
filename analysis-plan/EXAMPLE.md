@@ -1,6 +1,6 @@
-# Analysis plan: an invented example
+# Analysis plan: an example
 
-*Illustrative example with invented data.* The business, the people, the files, the dates and the lists below are invented, and no real business is meant. The business is an invented 40-person online seller of garden furniture, with its own warehouse and a contract carrier. Its Owner has a question and a budget decision to make. People appear by role.
+*Illustrative example with sample data.* The business, the people, the files, the dates and the lists below are illustrative, and no real business is meant. The business is an illustrative 40-person online seller of garden furniture, with its own warehouse and a contract carrier. Its Owner has a question and a budget decision to make. People appear by role.
 
 On Monday 9 November 2026 the Owner typed the request note and the three lists below, and asked for a plan. No data was opened or pasted: the lists describe the files. The inputs come first, in full, so the template can be run on them. The plan the workflow template returned follows.
 

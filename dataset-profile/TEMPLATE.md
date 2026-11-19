@@ -137,7 +137,7 @@ When a section has no findings, print its heading, then what was checked and "no
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a test of its own; the run on the invented example touched tests 3, 4, 6 and 12 through its data.
+Proposed tests. None has been run as a test of its own; the run on the example touched tests 3, 4, 6 and 12 through its data.
 
 1. **Clean file.** Every key unique, no blanks, every value in range. Expected: each section says what was checked and that none was found; questions and decisions say none.
 2. **Header mismatch.** The notes list `qty` and the file has `quantity`. Expected: stops and lists the difference; no profile.
@@ -244,4 +244,4 @@ and list the decisions instead.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. After that first run the template was edited (a date order is tested only when a rule or the notes state it, and the settings, defaults and wording named in the record were settled), and the edited version has been run once more by the assistant that made the edits, not independently. It has not been tested in a client environment.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI from its own published map of the work. It was tried on its example in Claude on 10 November 2026; the record is published with it. After that first run the template was edited (a date order is tested only when a rule or the notes state it, and the settings, defaults and wording named in the record were settled), and the edited version has been run once more by the assistant that made the edits, not independently. It has not been tested in a client environment.

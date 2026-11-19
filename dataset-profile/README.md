@@ -8,7 +8,7 @@ Before you join a new export, get a profile of what a row stands for, repeated k
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile)*
@@ -37,7 +37,7 @@ An analyst starts it when a new extract arrives, or before relying on a table in
 
 One profile in a fixed order: the file and its header check, row grain, duplicates, missing and stand-in values, types and formats, value spreads, consistency rules, what the findings touch for the intended use, questions for the data owner, decisions for the analyst, and what was not checked. A section with nothing to report says what was checked and found nothing.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Write your schema notes once per source and keep them: the profile is only as go
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three extracts your analysts already know well, with faults planted in copies and written down in advance: a repeated key whose rows differ, a date in a second format, a stand-in word in a numeric column, a column missing from the notes. The analyst confirms each finding against the file before anyone relies on the profile. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile) describes the record we keep.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on two or three extracts your analy
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

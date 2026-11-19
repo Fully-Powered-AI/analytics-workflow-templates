@@ -1,6 +1,6 @@
-# Dashboard and report inventory review: an invented example
+# Dashboard and report inventory review: an example
 
-*Illustrative example with invented data.* Company X is an invented online homeware retailer with about 120 people. Its business intelligence tool's licence renews on 1 February 2027, and its old orders database is being switched off on 31 January. The reporting administrator runs the review for the analytics lead, who decides what is retired. The owners appear as letters, and every item, folder, date and count below is invented.
+*Illustrative example with sample data.* Company X is an illustrative online homeware retailer with about 120 people. Its business intelligence tool's licence renews on 1 February 2027, and its old orders database is being switched off on 31 January. The reporting administrator runs the review for the analytics lead, who decides what is retired. The owners appear as letters, and every item, folder, date and count below is illustrative.
 
 The inputs come first, in full, so the workflow template can be run on them. The review follows.
 

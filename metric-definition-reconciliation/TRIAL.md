@@ -1,10 +1,10 @@
-# Metric definition reconciliation: one trial on the invented example
+# Metric definition reconciliation: one trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): an invented online garden-tools shop, October 2026 "Net sales" of 695.00 in the monthly management report and 692.00 on the campaign dashboard. No client data was used.
+The inputs are the example in [example.md](example.md): an illustrative online garden-tools shop, October 2026 "Net sales" of 695.00 in the monthly management report and 692.00 on the campaign dashboard. No client data was used.
 
 This is the second run. An earlier run, the same day, produced the first record; the template's pasted instructions, its output format and the example's page were then edited after an independent review, so that run no longer describes the current text. This record replaces it and describes a fresh run on the edited text.
 
@@ -48,6 +48,6 @@ The page followed the output format section by section. Its substance:
 
 ### Shortcomings
 
-- The trial is one run, by one model, on one invented example, and not a blind run (see above).
+- The trial is one run, by one model, on one example, and not a blind run (see above).
 - The template's own acceptance tests, such as a date-only extract, a header mismatch, a unit difference with no rate and a missing formula, were not exercised. Only the main path was. The pasted instructions were checked against the output format by reading, not by a run of those cases.
 - Nothing here shows how the template behaves on a real client's extracts, which are larger and messier.

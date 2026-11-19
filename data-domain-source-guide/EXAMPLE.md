@@ -1,6 +1,6 @@
-# Source guide for a data domain: an invented example
+# Source guide for a data domain: an example
 
-*Illustrative example with invented data.* The business, the people, the tables, the counts and the notes below are all invented. The business is an invented online retailer of outdoor gear with a small data team: a head of data and three analysts. One of them, the senior analyst, is the person everyone asks about the order tables. Two new analysts join in January, so the head of data interviews the senior analyst and runs the workflow template. First come the inputs, in full, then the guide it returned.
+*Illustrative example with sample data.* The business, the people, the tables, the counts and the notes below are all illustrative. The business is an illustrative online retailer of outdoor gear with a small data team: a head of data and three analysts. One of them, the senior analyst, is the person everyone asks about the order tables. Two new analysts join in January, so the head of data interviews the senior analyst and runs the workflow template. First come the inputs, in full, then the guide it returned.
 
 ## The inputs
 

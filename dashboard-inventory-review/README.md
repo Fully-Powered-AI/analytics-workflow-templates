@@ -8,7 +8,7 @@ Before a licence renewal, review every dashboard and report from your tool's exp
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dashboard-inventory-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dashboard-inventory-review&from=gh-analytics-dashboard-inventory-review)*
@@ -38,7 +38,7 @@ One review in a fixed order. A count line comes first: items read, items flagged
 
 Last comes the proposed list to ask owners about: each flagged item once, under its owner, with every reason and a plain question for each. Items whose owner has left or is blank go to the person who decides, who names a new owner first.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ Set how long without a view counts as unused, and name the folders that are exem
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried once on its invented example on 19 November 2026, and the run was not blind. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 19 November 2026. It was tried once on its example on 19 November 2026, and the run was not blind. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on last year's export, which your reporting administrator already knows, with hard cases written in advance: a header named differently, a report in an exempt folder, a dashboard created last month and never opened, an owner on the leavers list, two copies of one report. The administrator checks every line against the tool before any owner is asked. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dashboard-inventory-review&from=gh-analytics-dashboard-inventory-review) sets those cases up.
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on last year's export, which your r
 - Sources and rights reviewed.
 - Editorially reviewed on 19 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 19 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
