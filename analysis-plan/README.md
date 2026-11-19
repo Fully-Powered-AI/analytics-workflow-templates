@@ -4,6 +4,8 @@ Before anyone opens the spreadsheet, the owner or manager gets a one-page plan: 
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/analysis-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/analysis-plan/?from=gh-analytics-analysis-plan)
+
 ## The outcome
 
 The work starts from a decision, not from a pile of exports. The plan says what you are really asking, what you think might be true, which columns and which months would show it, and what result would make you choose one option over another. Whoever does the analysis afterwards, you or an analyst, starts with the same page and the same question.

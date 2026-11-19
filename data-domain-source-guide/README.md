@@ -4,6 +4,8 @@ When what a domain's tables really mean lives with one analyst, the data lead ge
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/data-domain-source-guide/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/data-domain-source-guide/?from=gh-analytics-data-domain-source-guide)
+
 ## The outcome
 
 The knowledge that lives in one analyst's head becomes a page the whole team can work from. For each table in the domain, the guide says what one row stands for, which columns make it unique, which date to use and in which time zone, whether rows change after they load, which rows are normally left out, and who owns it. It says how the tables join and in what proportion, so nobody sums a total after a join that repeats it. It records the business definitions built on the tables and the traps the analyst has learned the hard way.

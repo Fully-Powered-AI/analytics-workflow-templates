@@ -4,6 +4,8 @@ When two reports give different numbers for one metric, the owner gets a page: t
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/metric-definition-reconciliation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/metric-definition-reconciliation/?from=gh-metric-definition-reconciliation)
+
 ## The outcome
 
 The argument about which number is right stops being an argument about numbers. The owner sees, element by element, where the two reports differ: the source, the population counted, the exclusions, the date and time zone, what is summed, how refunds and adjustments are treated. Where each report's records are supplied, the gap is bridged step by step from one reported figure to the other, and the steps add up to it.

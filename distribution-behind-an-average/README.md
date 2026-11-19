@@ -4,6 +4,8 @@ Before a service or process review leans on an average, the analyst gets the spr
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/distribution-behind-an-average/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/distribution-behind-an-average/?from=gh-distribution-behind-an-average)
+
 ## The outcome
 
 An average of 21 hours can describe a desk where most work closes in half a day and a handful of cases run for most of a week. This workflow template shows which of those the review is looking at. The analyst gets one page: the middle of the range and the upper end of it, how much of the total the largest records carry, how many records sit over the target, which records are the extreme cases and on which lines of the export they sit, and how each segment's spread differs from the whole.

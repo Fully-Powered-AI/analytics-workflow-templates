@@ -4,6 +4,8 @@ Before anyone joins or relies on a new export, the analyst gets one profile of i
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dataset-profile/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/dataset-profile/?from=gh-analytics-dataset-profile)
+
 ## The outcome
 
 An unfamiliar table stops being a surprise. Before the first join, the analyst has a page that says what a row is meant to be and whether the data bears that out, which keys appear more than once and in what way the repeats differ, which columns hold blanks or stand-in text, which values sit far from the rest, and where two columns disagree with each other. Every finding points to the line in the file where it can be seen.

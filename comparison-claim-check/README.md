@@ -4,6 +4,8 @@ A manager holding a claim such as "version B converts better" and two groups of 
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/comparison-claim-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/comparison-claim-check/?from=gh-analytics-comparison-claim-check)
+
 ## The outcome
 
 Someone says the new page, the new offer or the new process did better, and shows two columns of numbers. Before anyone changes anything, the manager gets one page that answers four questions. How big is the difference? How sure can we be that it is more than luck? Were the groups fair to compare? And what can honestly be said about it in a meeting?

@@ -4,6 +4,8 @@ Before anyone builds the dashboard, the requester gets one brief that settles th
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dashboard-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/dashboard-brief/?from=gh-analytics-dashboard-brief)
+
 ## The outcome
 
 A dashboard built from a settled brief answers a question somebody has to answer. A dashboard built from a request such as "we need a dashboard for sales" shows whatever was easy to chart. This workflow template turns the request into a short document that the requester, the person who owns the data and the person who builds can all read and agree to before a single chart exists.

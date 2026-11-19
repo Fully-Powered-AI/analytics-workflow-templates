@@ -4,6 +4,8 @@ Before analytics goes onto a website or app, the founder or product owner gets o
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/tracking-event-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/tracking-event-plan/?from=gh-analytics-tracking-event-plan)
+
 ## The outcome
 
 You start measuring with a plan instead of a guess. Before anyone adds a line of tracking, you hold a short list of the things the site or app should record, and next to each one the question it will help you answer. If nothing you want to know needs a thing, it is not on the list.

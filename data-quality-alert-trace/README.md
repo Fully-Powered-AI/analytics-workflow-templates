@@ -4,6 +4,8 @@ When a data-quality alert fires or a report looks wrong, the data team lead gets
 
 *Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/data-quality-alert-trace/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/data-quality-alert-trace/?from=gh-analytics-data-quality-alert-trace)
+
 ## The outcome
 
 The first hour after an alert stops being a scramble through dashboards and chat threads. The data team lead reads one brief that answers the questions everyone asks at once: which reports sit downstream of the broken table, who uses them, which have already refreshed with the data in question, and which is used next.
