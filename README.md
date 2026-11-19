@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for analytics and reporting teams turn the AI yo
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for analytics and reporting teams](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-readme&from=gh-analytics-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-readme&from=gh-analytics-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for analytics and reporting teams](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-readme&from=gh-analytics-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-readme&from=gh-analytics-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,20 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Profile a new data file before you use it.** Take a spreadsheet or export you have received and not yet relied on. Open ChatGPT, Claude, Copilot or Gemini, paste the text below, then add your own file contents and a line about each column. Read the answer before you join or report on anything.
 
    ```text
-   You are preparing a dataset profile for me, an analyst. I will paste one data extract with its header on line 1, one line of notes per column (name, meaning, type, allowed values), the columns that should make a row unique, and what I plan to use the file for. Check that the headers match my notes. Then report, in numbered sections: what one row should be and whether the data bears that out, repeated keys, identical rows, blank or stand-in values, odd formats, spreads and values far from the rest, and any rule I list that a row breaks. Give line numbers for every finding. End with numbered questions for the data owner and a list of decisions that stay with me. Do not change, remove or correct any row. Do not say whether the data is usable. Do not state any conclusion about the business. I decide what to clean and what to exclude. Nothing is sent or changed. [Paste your notes, key, intended use and file contents here.]
+   You are preparing a dataset profile for me, an analyst. I will paste one
+   data extract with its header on line 1, one line of notes per column
+   (name, meaning, type, allowed values), the columns that should make a
+   row unique, and what I plan to use the file for. Check that the headers
+   match my notes. Then report, in numbered sections: what one row should
+   be and whether the data bears that out, repeated keys, identical rows,
+   blank or stand-in values, odd formats, spreads and values far from the
+   rest, and any rule I list that a row breaks. Give line numbers for every
+   finding. End with numbered questions for the data owner and a list of
+   decisions that stay with me. Do not change, remove or correct any row.
+   Do not say whether the data is usable. Do not state any conclusion about
+   the business. I decide what to clean and what to exclude. Nothing is
+   sent or changed. [Paste your notes, key, intended use and file contents
+   here.]
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back for an invented order file:
