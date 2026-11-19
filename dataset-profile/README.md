@@ -1,10 +1,17 @@
 # Dataset profile
 
-Before anyone joins or relies on a new export, the analyst gets one profile of it: what one row stands for, where keys repeat, what is missing, which values look odd, and a numbered list of questions for the data owner. No data is changed and no verdict is given.
+Before you join a new export, get a profile of what a row stands for, repeated keys, blanks and odd values, plus questions for the data owner.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dataset-profile/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Dataset profile on our website](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/dataset-profile/?from=gh-analytics-dataset-profile)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile)*
 
 ## The outcome
 
@@ -34,15 +41,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where the first hour with a new table decides how much of the later work can be trusted.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where product and billing exports change shape between releases.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where portfolio and transaction extracts arrive from several sources with different habits.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where order, product and returns tables are joined constantly.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where time, billing and project exports are joined for utilization and margin questions.
-- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when the other company's data arrives with no one left who built it.
-- [Private equity and portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), when a portfolio company's extracts must be understood quickly before they are compared.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), where the first hour with a new table decides how much of the later work can be trusted.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), where product and billing exports change shape between releases.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), where portfolio and transaction extracts arrive from several sources with different habits.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), where order, product and returns tables are joined constantly.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), where time, billing and project exports are joined for utilization and margin questions.
+- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), when the other company's data arrives with no one left who built it.
+- [Private equity and portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile), when a portfolio company's extracts must be understood quickly before they are compared.
 
-Before a finished workbook is sent out, [spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/) is the one to use. This workflow template is for a table you are about to start working with.
+Before a finished workbook is sent out, [spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile) is the one to use. This workflow template is for a table you are about to start working with.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Write your schema notes once per source and keep them: the profile is only as go
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026; the record is published with it. The first run found that the example tested a date order the instructions did not call for; the template and the example were then changed, and the edited version was run once more on the example by the assistant that made the edits, not independently. That run covered one export with a repeated key, a second date format, a stand-in word and a rule the analyst listed; it did not reach a header that does not match the notes, a column marked as personal data, or a request to clean the file. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three extracts your analysts already know well, with faults planted in copies and written down in advance: a repeated key whose rows differ, a date in a second format, a stand-in word in a numeric column, a column missing from the notes. The analyst confirms each finding against the file before anyone relies on the profile. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three extracts your analysts already know well, with faults planted in copies and written down in advance: a repeated key whose rows differ, a date in a second format, a stand-in word in a numeric column, a column missing from the notes. The analyst confirms each finding against the file before anyone relies on the profile. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,10 +86,10 @@ Testing in your environment means running it on two or three extracts your analy
 
 ## Related workflow templates
 
-- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/)
-- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Spreadsheet check before sharing](https://fullypowered.ai/workflows/spreadsheet-check-before-sharing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-dataset-profile&from=gh-analytics-dataset-profile).

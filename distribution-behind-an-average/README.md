@@ -1,10 +1,17 @@
 # The distribution behind an average
 
-Before a service or process review leans on an average, the analyst gets the spread behind it: percentiles from the supplied rows, the extreme cases by line, and how each segment differs. Every figure recomputes from the export, and no cause is stated. The process owner decides what to look into.
+See the spread behind an average: percentiles from your export, extreme cases by line and segment differences, with every figure checkable.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/distribution-behind-an-average/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See The distribution behind an average on our website](https://fullypowered.ai/workflows/distribution-behind-an-average/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/distribution-behind-an-average/?from=gh-distribution-behind-an-average)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/distribution-behind-an-average/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average)*
 
 ## The outcome
 
@@ -34,16 +41,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where a distribution is the honest companion to any average that goes into a review.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the slowest tenth of the work is often what customers remember.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where delivery and dwell times have long upper tails that an average smooths away.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where support resolution times differ sharply by queue and product.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where order-to-dispatch and refund times are reviewed against a promise to the customer.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where turnaround on requests and deliverables varies by team and client.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when volume rises and the upper end of the range moves before the average does.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when a long-standing service target needs to be checked against how the work really spreads.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), where a distribution is the honest companion to any average that goes into a review.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), where the slowest tenth of the work is often what customers remember.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), where delivery and dwell times have long upper tails that an average smooths away.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), where support resolution times differ sharply by queue and product.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), where order-to-dispatch and refund times are reviewed against a promise to the customer.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), where turnaround on requests and deliverables varies by team and client.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), when volume rises and the upper end of the range moves before the average does.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average), when a long-standing service target needs to be checked against how the work really spreads.
 
-To profile a new export before relying on it, start with [dataset profile](https://fullypowered.ai/workflows/dataset-profile/). To test whether a difference between two groups holds up, use [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/). This workflow template describes a spread; it runs no test.
+To profile a new export before relying on it, start with [dataset profile](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average). To test whether a difference between two groups holds up, use [comparison claim check](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average). This workflow template describes a spread; it runs no test.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Write down once how your exports name the four columns, so the mapping travels w
 
 FullyPowered AI wrote this workflow template from its own published map of analytics work. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, on the instructions as they stood that day; the record of that run is published with the template, and later edits have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past months whose spread your analyst already knows, with cases written in advance: a header that does not match, a row outside the window, a blank measure, a zero, a record that appears twice, a segment too small for its own percentiles. The analyst recomputes every figure from the sorted export before anyone relies on the page. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past months whose spread your analyst already knows, with cases written in advance: a header that does not match, a row outside the window, a blank measure, a zero, a record that appears twice, a segment too small for its own percentiles. The analyst recomputes every figure from the sorted export before anyone relies on the page. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,8 +89,8 @@ Testing in your environment means running it on two or three past months whose s
 
 - [Dataset profile](../dataset-profile/)
 - [Comparison claim check](../comparison-claim-check/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-distribution-behind-an-average&from=gh-distribution-behind-an-average).

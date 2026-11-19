@@ -1,10 +1,17 @@
 # Tracking event plan
 
-Before analytics goes onto a website or app, the founder or product owner gets one plan: the events and properties worth collecting, when each fires, where it goes, what it is called and who owns it, each tied to a question the business needs answered. The owner approves what is collected.
+Before analytics goes onto a website or app, get one plan of the events and properties worth collecting, each tied to a question. The owner approves.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/tracking-event-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Tracking event plan on our website](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/tracking-event-plan/?from=gh-analytics-tracking-event-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/tracking-event-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan)*
 
 ## The outcome
 
@@ -36,15 +43,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where measurement definitions are written down before they are built.
-- [Product management](https://fullypowered.ai/functions/product-management/), where a new feature needs a way to tell whether it worked.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where a product team adds events to every release.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where the path from product page to order is the thing to measure.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a firm's website exists to bring in enquiries.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the first analytics set-up shapes every report that follows.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), where a new offer needs its own measures from day one.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where measurement definitions are written down before they are built.
+- [Product management](https://fullypowered.ai/functions/product-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where a new feature needs a way to tell whether it worked.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where a product team adds events to every release.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where the path from product page to order is the thing to measure.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where a firm's website exists to bring in enquiries.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where the first analytics set-up shapes every report that follows.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), where a new offer needs its own measures from day one.
 
-It is a different piece of work from [website findability audit](https://fullypowered.ai/workflows/website-findability-audit/), which looks at whether search engines can reach and read your pages, and from [lead magnet plan](https://fullypowered.ai/workflows/lead-magnet-plan/), which plans a free resource. Here the website or app already exists or is about to, and the question is what it should record.
+It is a different piece of work from [website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), which looks at whether search engines can reach and read your pages, and from [lead magnet plan](https://fullypowered.ai/workflows/lead-magnet-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan), which plans a free resource. Here the website or app already exists or is about to, and the question is what it should record.
 
 ## What has to change for your company
 
@@ -81,10 +88,10 @@ Testing in your environment means running it on a journey you know well, with ca
 
 ## Related workflow templates
 
-- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/)
-- [Lead magnet plan](https://fullypowered.ai/workflows/lead-magnet-plan/)
-- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/)
+- [Website findability audit](https://fullypowered.ai/workflows/website-findability-audit/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan)
+- [Lead magnet plan](https://fullypowered.ai/workflows/lead-magnet-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan)
+- [Creator campaign performance report](https://fullypowered.ai/workflows/creator-campaign-performance-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-tracking-event-plan&from=gh-analytics-tracking-event-plan).

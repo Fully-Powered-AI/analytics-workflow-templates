@@ -1,10 +1,17 @@
 # Data-quality alert trace
 
-When a data-quality alert fires or a report looks wrong, the data team lead gets one investigation brief: the reports and people affected, the path the data takes, candidate causes ranked by the evidence supplied, and what to check next. It runs no query and changes nothing.
+When a data-quality alert fires, get the affected reports, the path the data takes, ranked candidate causes and what to check next. It changes nothing.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/data-quality-alert-trace/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Data-quality alert trace on our website](https://fullypowered.ai/workflows/data-quality-alert-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/data-quality-alert-trace/?from=gh-analytics-data-quality-alert-trace)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/data-quality-alert-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace)*
 
 ## The outcome
 
@@ -37,14 +44,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where the team that keeps the data trustworthy needs to know where to look before the next report goes out.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where product, billing and event data pass through many steps before they reach a dashboard.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where order, payment and stock feeds land overnight and the trading team reads the numbers each morning.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where shipment and carrier files arrive late or in parts and the operations reports depend on them.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the data platform grows faster than anyone's memory of how it fits together.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when new sources join the warehouse and the first alerts arrive before the lineage is well known.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace), where the team that keeps the data trustworthy needs to know where to look before the next report goes out.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace), where product, billing and event data pass through many steps before they reach a dashboard.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace), where order, payment and stock feeds land overnight and the trading team reads the numbers each morning.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace), where shipment and carrier files arrive late or in parts and the operations reports depend on them.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace), when the data platform grows faster than anyone's memory of how it fits together.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace), when new sources join the warehouse and the first alerts arrive before the lineage is well known.
 
-When two reports disagree because they define a metric differently, [metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/) is the one to use; for a new extract nobody has worked with yet, use the [dataset profile](https://fullypowered.ai/workflows/dataset-profile/); to learn which source system holds a data domain before anything goes wrong, use the [data domain source guide](https://fullypowered.ai/workflows/data-domain-source-guide/). This workflow template is for the moment something that used to be right has gone wrong.
+When two reports disagree because they define a metric differently, [metric definition reconciliation](https://fullypowered.ai/workflows/metric-definition-reconciliation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace) is the one to use; for a new extract nobody has worked with yet, use the [dataset profile](https://fullypowered.ai/workflows/dataset-profile/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace); to learn which source system holds a data domain before anything goes wrong, use the [data domain source guide](https://fullypowered.ai/workflows/data-domain-source-guide/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace). This workflow template is for the moment something that used to be right has gone wrong.
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ Map your lineage export and change log to the default columns once. Set how far 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example on 12 November 2026 in Claude, in two runs. The first found gaps in the instructions, which were then edited; the second is the record published with it, and was made by the assistant that made the edits, so it is not an independent check. Small wording edits were made after that run and have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past incidents your data team has already resolved, with hard cases written in advance: a change made after the alert fired, a change to a model downstream of the alerted table, a lineage with a missing owner, a partial load upstream, a planted line in a change description that tries to give an instruction. The data team lead checks every figure and every ranking against the inputs before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past incidents your data team has already resolved, with hard cases written in advance: a change made after the alert fired, a change to a model downstream of the alerted table, a lineage with a missing owner, a partial load upstream, a planted line in a change description that tries to give an instruction. The data team lead checks every figure and every ranking against the inputs before anyone relies on the brief. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -88,4 +95,4 @@ Testing in your environment means running it on two or three past incidents your
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-data-quality-alert-trace&from=gh-analytics-data-quality-alert-trace).

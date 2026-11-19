@@ -1,10 +1,17 @@
 # Analysis plan
 
-Before anyone opens the spreadsheet, the owner or manager gets a one-page plan: the question restated, the hypotheses, the fields and periods needed, and the result that would change the decision. It runs no analysis and states no finding. You own the question and the criteria.
+Before anyone opens the spreadsheet, get a one-page plan: the question, hypotheses, fields and the result that would change the decision.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/analysis-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Analysis plan on our website](https://fullypowered.ai/workflows/analysis-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/analysis-plan/?from=gh-analytics-analysis-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/analysis-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan)*
 
 ## The outcome
 
@@ -35,12 +42,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where the plan is the first page of every investigation.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where orders, campaigns and deliveries sit in separate exports and the question is which one explains a change.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a partner or director asks a question that spans time records, billing and pipeline.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where lead times, carriers and customer orders have to be lined up before any pattern means anything.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when decisions get bigger faster than the analytics team does.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the data is plentiful, the definitions have drifted, and nobody wants a second argument about what a number means.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan), where the plan is the first page of every investigation.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan), where orders, campaigns and deliveries sit in separate exports and the question is which one explains a change.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan), where a partner or director asks a question that spans time records, billing and pipeline.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan), where lead times, carriers and customer orders have to be lined up before any pattern means anything.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan), when decisions get bigger faster than the analytics team does.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan), where the data is plentiful, the definitions have drifted, and nobody wants a second argument about what a number means.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Say who may ask for an investigation and who decides what it feeds. Decide the c
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was run once on its invented example on 10 November 2026, and the record of that run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past questions whose decisions you already know, plus hard cases written in advance: a question with no decision behind it, a criterion with no number, a column that no source holds, a measure that needs ninety days to mature. The analytics lead checks every line against the sources before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past questions whose decisions you already know, plus hard cases written in advance: a question with no decision behind it, a criterion with no number, a column that no source holds, a measure that needs ninety days to mature. The analytics lead checks every line against the sources before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -77,10 +84,10 @@ Testing in your environment means running it on two or three past questions whos
 
 ## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
-- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan)
+- [Supplier spend analysis](https://fullypowered.ai/workflows/supplier-spend-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-analysis-plan&from=gh-analytics-analysis-plan).

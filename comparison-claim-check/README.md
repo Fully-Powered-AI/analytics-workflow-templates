@@ -1,10 +1,17 @@
 # Comparison claim check
 
-A manager holding a claim such as "version B converts better" and two groups of numbers gets back the method used, the size of the difference, how uncertain it is, the assumptions checked, and plain wording for what the data does and does not support. The manager decides what to do.
+Hold a claim like version B converts better against two groups of numbers and get the method, the size of the difference and plain wording. You decide.
 
-*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/comparison-claim-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Comparison claim check on our website](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/comparison-claim-check/?from=gh-analytics-comparison-claim-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Analytics and reporting · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/comparison-claim-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)*
 
 ## The outcome
 
@@ -35,15 +42,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/), where a claim should be checked before it travels.
-- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/), for page, subject-line and offer comparisons.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where checkout, pricing and promotion changes are tried on live visitors.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), for product experiments and release comparisons.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where one campaign variant is said to beat another.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when many changes are being tried quickly and each needs an honest reading.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when a pilot in one branch or team is the basis for a wider change.
+- [Analytics and reporting](https://fullypowered.ai/functions/analytics-and-reporting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), where a claim should be checked before it travels.
+- [Marketing and content](https://fullypowered.ai/functions/marketing-and-content/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), for page, subject-line and offer comparisons.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), where checkout, pricing and promotion changes are tried on live visitors.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), for product experiments and release comparisons.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), where one campaign variant is said to beat another.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), when many changes are being tried quickly and each needs an honest reading.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check), when a pilot in one branch or team is the basis for a wider change.
 
-It is not a review of why deals were won or lost (see [win-loss review](https://fullypowered.ai/workflows/win-loss-review/)) or a grouping of what customers say ([customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)). It compares two groups on one outcome.
+It is not a review of why deals were won or lost (see [win-loss review](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)) or a grouping of what customers say ([customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)). It compares two groups on one outcome.
 
 ## What has to change for your company
 
@@ -80,10 +87,10 @@ Testing in your environment means running it on comparisons whose answers you al
 
 ## Related workflow templates
 
-- [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/)
-- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/)
-- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/)
+- [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)
+- [Customer feedback themes](https://fullypowered.ai/workflows/customer-feedback-themes/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)
+- [Operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=analytics-comparison-claim-check&from=gh-analytics-comparison-claim-check).
