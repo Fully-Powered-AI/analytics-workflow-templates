@@ -28,6 +28,14 @@
       "directory": "https://fullypowered.ai/workflows/dashboard-brief/"
     },
     {
+      "id": "dashboard-inventory-review",
+      "name": "Dashboard and report inventory review",
+      "version": "0.1.0",
+      "summary": "Twice a year, or before a licence renewal or a tool change, the analytics lead gets one review of every dashboard and report: what nobody opens, what has no owner, likely duplicates, scheduled sends with no views and items on a retiring data source. Each ties to the export. People decide.",
+      "path": "dashboard-inventory-review/",
+      "directory": "https://fullypowered.ai/workflows/dashboard-inventory-review/"
+    },
+    {
       "id": "data-domain-source-guide",
       "name": "Source guide for a data domain",
       "version": "0.1.0",

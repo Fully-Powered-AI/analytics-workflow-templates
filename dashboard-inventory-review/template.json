@@ -1,0 +1,47 @@
+{
+  "id": "dashboard-inventory-review",
+  "name": "Dashboard and report inventory review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Twice a year, or before a licence renewal or a tool change, the analytics lead gets one review of every dashboard and report: what nobody opens, what has no owner, likely duplicates, scheduled sends with no views and items on a retiring data source. Each ties to the export. People decide.",
+  "directory": "https://fullypowered.ai/workflows/dashboard-inventory-review/",
+  "primary_function": "functions/analytics-and-reporting",
+  "functions": [
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/finance-and-investment",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "metric-definition-reconciliation",
+    "dashboard-brief",
+    "software-subscription-and-vendor-spend-review"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own original method for a twice-yearly review of a reporting tool's dashboard and usage inventory."
+    }
+  ]
+}
